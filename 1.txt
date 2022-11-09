@@ -1,1 +1,1 @@
-vless://66fd2942-631c-42f3-bbd7-455b9ab4c5dc@172.67.140.98:443?type=ws&security=tls&path=%2F66fd2942-631c-42f3-bbd7-455b9ab4c5dc-vless&host=iuwejifue-prod-goodjiwue-ru5ggj.mo2.mogenius.io&sni=iuwejifue-prod-goodjiwue-ru5ggj.mo2.mogenius.io&alpn=http%2F1.1#02
+vless://cd399cbe-f5bb-4098-8673-70b008cdabe3@172.67.196.126:443?type=ws&security=tls&path=%2Fcd399cbe-f5bb-4098-8673-70b008cdabe3-vless&host=www.wjiusdfjeosidfeisjdife.cf&sni=www.wjiusdfjeosidfeisjdife.cf&alpn=http%2F1.1#03
